@@ -7,7 +7,7 @@ description = "Download and train your retro-engineering skills 🖳"
 repository = "https://github.com/Courtcircuits/cracked"
 homepage = "https://github.com/Courtcircuits/cracked"
 readme = "README.md"
-keywords = ["crack me", "tui"]
+keywords = ["crack-me", "tui"]
 categories = ["development-tools"]
 
 
