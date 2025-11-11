@@ -1,7 +1,15 @@
 [package]
+license = "Apache-2.0"
 name = "cracked"
 version = "0.1.0"
 edition = "2024"
+description = "Download and train your retro-engineering skills 🖳"
+repository = "https://github.com/Courtcircuits/cracked"
+homepage = "https://github.com/Courtcircuits/cracked"
+readme = "README.md"
+keywords = ["crack me", "tui"]
+categories = ["development-tools"]
+
 
 [dependencies]
 clap = { version = "4.5.51", features = ["derive"] }
